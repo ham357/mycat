@@ -17,6 +17,8 @@ fuga fuga
 ```
 
 # Options
+```
 $ mycat --help
 Usage of mycat:
   -n	行番号表示
+```
